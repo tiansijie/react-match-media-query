@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`not render when media query not match 1`] = `null`;
+
+exports[`not render when media query not match(function) 1`] = `null`;
+
+exports[`renders correctly with function 1`] = `
+<div>
+  nowhere
+</div>
+`;
+
+exports[`renders correctly with react children 1`] = `
+<div>
+  iamhere
+</div>
+`;
